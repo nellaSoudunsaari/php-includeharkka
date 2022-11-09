@@ -1,0 +1,19 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h1 {
+    margin: 0px;
+    font-size: 50px;
+}
+
+#header, footer{
+    background-color: rgb(155, 216, 153);
+}
+
+#nav, li {
+    display: inline-block;
+    list-style: none;
+    padding: 0px 20px;
+}
